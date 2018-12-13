@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
+ * mybatis 配置
  * Created by 卢松炯 on 2018/9/2.
  */
 @MapperScan("com.example.demo.mapper*")
