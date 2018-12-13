@@ -8,6 +8,7 @@ import lombok.ToString;
 import java.io.Serializable;
 
 /**
+ * 权限实体类
  * Created by lusongjiong on 2018/12/10.
  */
 @Getter
